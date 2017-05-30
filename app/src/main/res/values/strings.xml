@@ -13,6 +13,10 @@
     <string name="txt_pizza_bacon">Bacon</string>
     <string name="txt_pizza_calabresa">Calabresa</string>
     <string name="txt_pizza_mussarela">Mussarela</string>
+    <string name="txt_tamanho_pizza">Escolha o Tamanho</string>
+    <string name="txt_pizza_pequena">Pequena</string>
+    <string name="txt_pizza_media">Média</string>
+    <string name="txt_pizza_grande">Grande</string>
     <string-array name="opcoes_pagamento">
         <item>@string/txt_cartao</item>
         <item>@string/txt_vr</item>
