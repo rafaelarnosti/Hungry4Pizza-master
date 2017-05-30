@@ -17,6 +17,12 @@
     <string name="txt_pizza_pequena">Pequena</string>
     <string name="txt_pizza_media">Média</string>
     <string name="txt_pizza_grande">Grande</string>
+    <string name="txt_forma_pagto">Forma de Pagamento</string>
+    <string name="txt_extras">Extras</string>
+    <string name="txt_borda_recheada">Borda Recheada</string>
+    <string name="txt_recheio_extra">Recheio Extra</string>
+    <string name="txt_refrigerante">Refrigerante</string>
+    <string name="txt_sobremesa">Sobremesa</string>
     <string-array name="opcoes_pagamento">
         <item>@string/txt_cartao</item>
         <item>@string/txt_vr</item>
