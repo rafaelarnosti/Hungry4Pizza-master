@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Hungry4Pizza</string>
+    <string name="hint_Login">Login</string>
+    <string name="hint_Senha">Senha</string>
+    <string name="botao_login">Login</string>
+    <string name="txt_cartao">Cartão</string>
+    <string name="txt_vr">VR</string>
+    <string name="txt_cheque">Cheque</string>
+    <string name="txt_dinheiro">Dinheiro</string>
+    <string name="txt_saudacao">Olá</string>
+    <string name="txt_escolha_pizza">Escolha sua Pizza</string>
+    <string name="txt_pizza_atum">Atum</string>
+    <string name="txt_pizza_bacon">Bacon</string>
+    <string name="txt_pizza_calabresa">Calabresa</string>
+    <string name="txt_pizza_mussarela">Mussarela</string>
+    <string-array name="opcoes_pagamento">
+        <item>@string/txt_cartao</item>
+        <item>@string/txt_vr</item>
+        <item>@string/txt_cheque</item>
+        <item>@string/txt_dinheiro</item>
+    </string-array>
+</resources>
