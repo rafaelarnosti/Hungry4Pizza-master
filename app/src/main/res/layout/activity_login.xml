@@ -12,21 +12,21 @@
     tools:context="com.rafaelarnosti.hungry4pizza.LoginActivity">
 
     <android.support.design.widget.TextInputLayout
-        android:id="@+id/tilLogin"
         android:layout_width="match_parent"
         android:layout_height="wrap_content">
 
         <EditText
+            android:id="@+id/tilLogin"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:hint="@string/hint_Login" />
     </android.support.design.widget.TextInputLayout>
     <android.support.design.widget.TextInputLayout
-        android:id="@+id/tilSenha"
         android:layout_width="match_parent"
         android:layout_height="wrap_content">
 
         <EditText
+            android:id="@+id/tilSenha"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:hint="@string/hint_Senha"
