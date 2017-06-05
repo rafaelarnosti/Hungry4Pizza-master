@@ -4,7 +4,7 @@
     <item
         android:id="@+id/item1"
         android:icon="@drawable/ic_action_serach"
-        android:showAsAction="always"
+        app:showAsAction="always"
         android:title="Procurar" />
 
     <item
